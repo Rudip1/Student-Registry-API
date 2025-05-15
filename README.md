@@ -74,5 +74,6 @@ pytest
 
 ---
 # Video link
+download the file as raw 
 12 factor app recording.mkv
 
