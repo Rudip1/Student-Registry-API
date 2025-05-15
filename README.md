@@ -34,7 +34,7 @@ A simple yet functional FastAPI-based microservice that manages student records.
 
 1. Clone the repo
 
-      git clone https://github.com/Rudip1/student_registry_api.git
+      git clone https://github.com/Rudip1/Student-Registry-API.git
       
       cd student_registry_api
 
