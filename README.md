@@ -73,7 +73,7 @@ http://127.0.0.1:8000/docs
 pytest
 
 ---
-# Video link
+# Video file
 download the file as raw 
 12 factor app recording.mkv
 
